@@ -5,7 +5,6 @@
 # 使用方法
 
 1. 微软应用商店安装mitmproxy
-2. 安装相关依赖 `pip install requirements.txt`
 2. 安装相关依赖 `pip install -r requirements.txt`
 3. 运行 main.py
 4. 根据提示另开power shell或者cmd启动代理
