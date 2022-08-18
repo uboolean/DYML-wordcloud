@@ -25,5 +25,3 @@ def makewc():
                             font_path =  "msyh.ttc"
                         ).generate(txt)
     wordcloud.to_file('抖音喜欢词云图.png')
-
-makewc()
